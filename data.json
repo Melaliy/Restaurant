@@ -4,7 +4,7 @@
         {
             "title": "新白鹿餐厅(银泰城店)",
             "icon": "https://img.meituan.net/msmerchant/7874373a6689f85f0f79a6f6d17330de147493.jpg",
-            "score": "4.3",
+            "score": "4.0",
             "address": "杭州市上城区延安路98号西湖银泰城F2",
             "price": "60",
             "review": [
@@ -29,7 +29,7 @@
         {
             "title": "好得火锅（金城路店）",
             "icon": "https://img.meituan.net/msmerchant/e0b5fff06b8b6eb6802e4c0588de993533426.jpg",
-            "score": "4.1",
+            "score": "4.0",
             "address": "萧山区金城路399号（金鸡路与金城路交叉口）",
             "price": "67",
             "review": [
@@ -54,7 +54,7 @@
         {
             "title": "桔子郎的夏天（保健路店）",
             "icon": "https://p1.meituan.net/mogu/4adbb64deaa215c21b71b1a20d504dd188547.jpg",
-            "score": "4.8",
+            "score": "4.0",
             "address": "余杭区保健路157号",
             "price": "39",
             "review": [
@@ -155,7 +155,7 @@
         {
             "title": "桔子郎的夏天（保健路店）",
             "icon": "https://p1.meituan.net/mogu/4adbb64deaa215c21b71b1a20d504dd188547.jpg",
-            "score": "4.8",
+            "score": "4.0",
             "address": "余杭区保健路157号",
             "price": "39",
             "review": [
@@ -196,7 +196,7 @@
         {
             "title": "朴叔叔韩国料理",
             "icon": "https://img.meituan.net/msmerchant/8fedb106f4051461d73de2099f221d18112828.jpg",
-            "score": "4.5",
+            "score": "4.0",
             "address": "下城区石桥路468号104室",
             "price": "45",
             "review": [
@@ -254,7 +254,7 @@
         {
             "title": "川娃子菜馆（景芳店）",
             "icon": "https://img.meituan.net/msmerchant/92dd9cf308bd8a994eb9b8f4433b472173102.jpg",
-            "score": "4.3",
+            "score": "4.0",
             "address": "江干区新塘路108号天虹购物中心B座B1层",
             "price": "52",
             "review": [
@@ -287,7 +287,7 @@
         {
             "title": "木叶町日本料理（舟山东路店）",
             "icon": "https://img.meituan.net/msmerchant/7b605be11161f848f4a6a5a87ba0b21b309084.jpg",
-            "score": "4.1",
+            "score": "4.0",
             "address": "拱墅区舟山东路66号",
             "price": "46",
             "review": [
@@ -318,7 +318,7 @@
                 {
                     "title": "好得火锅（金城路店）",
                     "icon": "https://img.meituan.net/msmerchant/e0b5fff06b8b6eb6802e4c0588de993533426.jpg",
-                    "score": "4.1",
+                    "score": "4.0",
                     "address": "萧山区金城路399号（金鸡路与金城路交叉口）",
                     "price": "67",
                     "review": [
@@ -368,7 +368,7 @@
                 {
                     "title": "幸福里文涮武烤羊蝎子馆",
                     "icon": "https://img.meituan.net/msmerchant/a5e4ae03d35e7c473bedb3054595943793366.jpg",
-                    "score": "3.7",
+                    "score": "3.0",
                     "address": "滨江区安业路251号江锦国际四楼",
                     "price": "93",
                     "review": [
@@ -393,7 +393,7 @@
                 {
                     "title": "万州烤鱼（新天地店）",
                     "icon": "https://p1.meituan.net/deal/__49263933__2345499.jpg",
-                    "score": "4.2",
+                    "score": "4.0",
                     "address": "余杭区河南埭路108号（临平新天地13号楼102唛歌楼下）",
                     "price": "52",
                     "review": [
@@ -426,7 +426,7 @@
                 {
                     "title": "川娃子菜馆（景芳店）",
                     "icon": "https://img.meituan.net/msmerchant/92dd9cf308bd8a994eb9b8f4433b472173102.jpg",
-                    "score": "4.3",
+                    "score": "4.0",
                     "address": "江干区新塘路108号天虹购物中心B座B1层",
                     "price": "52",
                     "review": [
@@ -498,7 +498,7 @@
                 {
                     "title": "咖巴伊牛排（福雷德文泽路店）",
                     "icon": "https://p1.meituan.net/deal/__47952512__9852522.jpg",
-                    "score": "4.4",
+                    "score": "4.0",
                     "address": "江干区文泽路99号福雷德广场3层",
                     "price": "53",
                     "review": [
@@ -531,7 +531,7 @@
                 {
                     "title": "Piano雅来18意大利餐厅",
                     "icon": "https://img.meituan.net/msmerchant/fa010ec32e423bdb59378bfd4e01d8223879989.png",
-                    "score": "4.5",
+                    "score": "4.0",
                     "address": "江干区新业路228号来福士中心1幢1804室-A",
                     "price": "352",
                     "review": [
@@ -589,7 +589,7 @@
                 {
                     "title": "VIDA花园餐厅（嘉里中心店）",
                     "icon": "https://img.meituan.net/msmerchant/15448548ef363d80f082e8f73225ec1d194802.jpg",
-                    "score": "3.8",
+                    "score": "3.0",
                     "address": "下城区延安路353号（嘉里中心3幢235）",
                     "price": "158",
                     "review": [
@@ -620,7 +620,7 @@
                 {
                     "title": "野原家寿司",
                     "icon": "https://img.meituan.net/msmerchant/f03bb2dcfaf70460ddaaa6b6c69afbc6100318.jpg",
-                    "score": "4.3",
+                    "score": "4.0",
                     "address": "萧山区瓜沥镇建设四路七彩城2栋115号",
                     "price": "17",
                     "review": [
@@ -653,7 +653,7 @@
                 {
                     "title": "花鸟寿司",
                     "icon": "https://p1.meituan.net/shaitu/8e3c7597a096df28c021c29b02526bc9112840.jpg@600w_600h_1l",
-                    "score": "4.4",
+                    "score": "4.0",
                     "address": "萧山区人民路65号鞋城斜对面正新鸡排旁（方正大厦对面）",
                     "price": "17",
                     "review": [
@@ -678,7 +678,7 @@
                 {
                     "title": "木叶町日本料理（舟山东路店）",
                     "icon": "https://img.meituan.net/msmerchant/7b605be11161f848f4a6a5a87ba0b21b309084.jpg",
-                    "score": "4.1",
+                    "score": "4.0",
                     "address": "拱墅区舟山东路66号",
                     "price": "46",
                     "review": [
@@ -703,7 +703,7 @@
                 {
                     "title": "竹哩（滨江店）",
                     "icon": "https://img.meituan.net/msmerchant/660629aae0028361d446e95261b0136b19986.jpg",
-                    "score": "4.9",
+                    "score": "4.0",
                     "address": "滨江区滨江区科技馆街1505号凯瑞金座三楼",
                     "price": "374",
                     "review": [
@@ -736,7 +736,7 @@
                 {
                     "title": "秋田家日本料理",
                     "icon": "https://p0.meituan.net/bbia/9b8349040fbdb90f1dc19758acde42ed113511.jpg@380w_214h_1e_1c",
-                    "score": "4.1",
+                    "score": "4.0",
                     "address": "萧山区通惠中路218号金马饭店1楼（近泰富广场）",
                     "price": "184",
                     "review": [
@@ -767,7 +767,7 @@
                 {
                     "title": "明洞韩国料理·营业中-可自提（星光广场店）",
                     "icon": "https://p1.meituan.net/bbia/708254_1581070812511.jpeg",
-                    "score": "3.9",
+                    "score": "4.0",
                     "address": "滨江区江南大道228号星光国际广场一期1层",
                     "price": "81",
                     "review": [
@@ -792,7 +792,7 @@
                 {
                     "title": "韩客来烤肉吧（瓜沥店）",
                     "icon": "https://p1.meituan.net/deal/35037f87392a756fa5ad26da637ed141121708.jpg",
-                    "score": "3.5",
+                    "score": "4.0",
                     "address": "萧山区东灵北路120号（金字塔影院楼上）",
                     "price": "40",
                     "review": [
@@ -817,7 +817,7 @@
                 {
                     "title": "朴叔叔韩国料理",
                     "icon": "https://img.meituan.net/msmerchant/8fedb106f4051461d73de2099f221d18112828.jpg",
-                    "score": "4.5",
+                    "score": "4.0",
                     "address": "下城区石桥路468号104室",
                     "price": "45",
                     "review": [
@@ -850,7 +850,7 @@
                 {
                     "title": "喔爸韩式美食（玉长城店）",
                     "icon": "https://img.meituan.net/msmerchant/01db6b90b154499ae8fa3de3bc9303d662390.png",
-                    "score": "4.7",
+                    "score": "4.0",
                     "address": "富阳区春秋北路银泰城玉长城3楼",
                     "price": "67",
                     "review": [
